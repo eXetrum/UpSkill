@@ -1,0 +1,15 @@
+c:\users\lumenignis\documents\visual studio 2012\Projects\UpSkill\UpSkill\bin\Debug\UpSkill.exe.config
+C:\Users\LumenIgnis\documents\visual studio 2012\Projects\UpSkill\UpSkill\bin\Debug\UpSkill.exe
+C:\Users\LumenIgnis\documents\visual studio 2012\Projects\UpSkill\UpSkill\bin\Debug\UpSkill.pdb
+C:\Users\LumenIgnis\documents\visual studio 2012\Projects\UpSkill\UpSkill\obj\Debug\UpSkill.csprojResolveAssemblyReference.cache
+C:\Users\LumenIgnis\documents\visual studio 2012\Projects\UpSkill\UpSkill\obj\Debug\UpSkill.SkillUpForm.resources
+C:\Users\LumenIgnis\documents\visual studio 2012\Projects\UpSkill\UpSkill\obj\Debug\UpSkill.Properties.Resources.resources
+C:\Users\LumenIgnis\documents\visual studio 2012\Projects\UpSkill\UpSkill\obj\Debug\UpSkill.csproj.GenerateResource.Cache
+C:\Users\LumenIgnis\documents\visual studio 2012\Projects\UpSkill\UpSkill\obj\Debug\UpSkill.exe
+C:\Users\LumenIgnis\documents\visual studio 2012\Projects\UpSkill\UpSkill\obj\Debug\UpSkill.pdb
+C:\Users\LumenIgnis\Documents\Visual Studio 2012\Projects\UpSkill\UpSkill\obj\Debug\UpSkill.GroupForm.resources
+C:\Users\LumenIgnis\documents\visual studio 2012\Projects\UpSkill\UpSkill\obj\Debug\UpSkill.GroupAddEditForm.resources
+C:\Users\LumenIgnis\Documents\Visual Studio 2012\Projects\UpSkill\UpSkill\obj\Debug\UpSkill.TeacherForm.resources
+C:\Users\LumenIgnis\Documents\Visual Studio 2012\Projects\UpSkill\UpSkill\obj\Debug\UpSkill.TeacherAddEditForm.resources
+C:\Users\LumenIgnis\Documents\Visual Studio 2012\Projects\UpSkill\UpSkill\obj\Debug\UpSkill.AllocateLoading.resources
+C:\Users\LumenIgnis\Documents\Visual Studio 2012\Projects\UpSkill\UpSkill\obj\Debug\UpSkill.LoadAddEditForm.resources
